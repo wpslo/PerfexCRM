@@ -4072,3 +4072,18 @@ $lang['openai_fine_tuning_description'] = 'Fine-tune OpenAI models with your kno
 $lang['retrain_model']               = 'Re-Train Model';
 $lang['retrain_model_description']   = 'Create a new fine-tuned model with the latest content. Previous fine-tuned models will be deleted.';
 $lang['model_is_recommended'] = 'Recommended';
+
+# 3.4.0
+$lang['settings_group_einvoice']                                = 'e-Invoice';
+$lang['settings_einvoice_templates']                            = 'e-Invoice Templates';
+$lang['einvoice']                                               = 'e-Invoice';
+$lang['settings_einvoice_default_template']                     = 'Default e-Invoice template';
+$lang['settings_einvoice_default_credit_note_template']         = 'Default e-Invoice template for credit note';
+$lang['settings_einvoice_send_as_invoice_email_attachment']     = 'Send e-Invoice as invoice attachment with email';
+$lang['settings_einvoice_send_as_credit_note_email_attachment'] = 'Send e-Invoice as credit note attachment with email';
+$lang['einvoice_new_template']                          = 'New e-Invoice template';
+$lang['einvoice_template_name']                         = 'Name';
+$lang['einvoice_template_type']                         = 'Type';
+$lang['einvoice_template_content']                      = 'Template content';
+$lang['einvoice_template_invalid_xml']                  = 'The entered XML content is invalid. Please fix';
+$lang['view_einvoice']                                  = 'View XML';
