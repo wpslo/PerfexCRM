@@ -4089,3 +4089,5 @@ $lang['view_einvoice']                                  = 'View XML';
 $lang['einvoice_template_invalid_xml']                  = 'The entered XML content is invalid. Please fix';
 $lang['einvoice_template_invalid_xml_on_submit']        = 'Invalid XML. Please correct errors before submitting.';
 $lang['xml_error']                                      = 'XML Error';
+$lang['einvoice_no_template_set']                       = 'No e-Invoice template set. Please set one in the settings.';
+$lang['einvoice_template_variables']                    = 'Template variables';
